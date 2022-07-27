@@ -1,0 +1,29 @@
+{
+  "name": "hello-prisma",
+  "version": "1.0.0",
+  "description": "Quickstart Prisma NodeJS and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnersoliveira/hello-prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abnersoliveira/hello-prisma/issues"
+  },
+  "homepage": "https://github.com/abnersoliveira/hello-prisma#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.1",
+    "prisma": "^4.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.1.0"
+  }
+}
